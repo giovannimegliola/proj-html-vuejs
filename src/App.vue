@@ -1,6 +1,6 @@
 <template>
   <HeaderApp /> 
-  <MainContentApp /> Main Content
+  <MainContentApp /> 
   <FooterApp />
 </template>
 
