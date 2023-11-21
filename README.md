@@ -1,4 +1,4 @@
-# .
+# Website: Motivation - MaxCoach.
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+ 
+## Descrizione
+
+Riprodurre il layout proposto in versione Desktop usando HTML/CSS/VueJS.
+(https://maxcoach.thememove.com/main/motivation/).
+Suddividiamo il lavoro in 2 milestone: la prima riguardante il layout statico, mentre la seconda le funzionalità VueJS.
