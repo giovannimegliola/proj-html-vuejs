@@ -1,5 +1,5 @@
 <template>
-  <HeaderApp /> Header
+  <HeaderApp /> 
   <MainContentApp /> Main Content
   <FooterApp />Footer
 </template>
