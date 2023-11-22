@@ -2,10 +2,8 @@
     <HeroApp />
     <AboutMeApp />
     <CoursesApp />
+    <BooksApp />
     
-    <section id="books">
-      Book store
-    </section>
     <section id="stories">
       Real stories
     </section>
@@ -18,15 +16,15 @@
   import HeroApp from './HeroApp.vue';
   import AboutMeApp from './AboutMeApp.vue';
   import CoursesApp from './CoursesApp.vue';
+  import BooksApp from './BooksApp.vue';
   export default {
     name: 'MainContentApp',
     components:{
       HeroApp,
       AboutMeApp,
-      CoursesApp
-      
-    }
-    
+      CoursesApp,
+      BooksApp 
+    } 
   }
 </script>
 

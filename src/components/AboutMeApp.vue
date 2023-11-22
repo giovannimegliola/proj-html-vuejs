@@ -49,6 +49,11 @@ h4{
   display: block;
 }
 
+.backimg img{
+  cursor: pointer;
+
+}
+
 .img-overlay{
   position: absolute;
   top: 50%;
