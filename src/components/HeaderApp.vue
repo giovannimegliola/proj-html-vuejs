@@ -2,7 +2,7 @@
   <header class="bg-white py-4">
     <div class="container">
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-4">
           <a href="#" >
             <img src="../assets/images/dark-logo.png" alt="MaxCoach logo" class="logo" />
           </a>
@@ -18,11 +18,11 @@
             </ul>
           </nav>
         </div>
-        <div class="col-md-3">
-            <i class="fa-brands fa-twitter mx-3"></i>
-            <i class="fa-brands fa-facebook-f mx-3"></i>
-            <i class="fa-brands fa-instagram mx-3"></i>
-            <i class="fa-brands fa-linkedin mx-3"></i>
+        <div class="col-md-2">
+            <i class="fa-brands fa-twitter ms-4 "></i>
+            <i class="fa-brands fa-facebook-f ms-4"></i>
+            <i class="fa-brands fa-instagram ms-4"></i>
+            <i class="fa-brands fa-linkedin ms-4"></i>
         </div>
       </div>
     </div>
@@ -43,7 +43,7 @@
 
 <style lang="scss" scoped>
 .logo{
-  width: 160px;
+  width: 150px;
 }
 .nav-link {
   color: #3f3a64;
