@@ -1,8 +1,5 @@
 <template>
-  <div class="container">
-    <section id="hero">
-      Hero content
-    </section>
+    <HeroApp />
     <section id="about">
       About me
     </section>
@@ -18,12 +15,15 @@
     <section id="blog">
       Blog Updates
     </section>
-
-  </div>
 </template>
 
 <script>
+  import HeroApp from './HeroApp.vue';
   export default {
+    name: 'MainContentApp',
+    components:{
+      HeroApp
+    }
     
   }
 </script>
