@@ -23,6 +23,27 @@
         </div>
       </div>
     </div>
+    <div class="row py-5">
+      <div class="col-md-2">
+        <a href="#"><img src="public/images/client-logo-05-primary.png" alt="It's Alive logo"></a>
+      </div>
+      <div class="col-md-2">
+        <a href="#"><img src="public/images/client-logo-06-primary.png" alt="It's Alive logo"></a>
+      </div>
+      <div class="col-md-2">
+        <a href="#"><img src="public/images/client-logo-07-primary.png" alt="It's Alive logo"></a>
+      </div>
+      <div class="col-md-2">
+        <a href="#"><img src="public/images/client-logo-04-primary.png" alt="It's Alive logo"></a>
+      </div>
+      <div class="col-md-2 ">
+        <a href="#"><img src="public/images/client-logo-03-primary.png" alt="It's Alive logo"></a>
+      </div>
+      <div class="col-md-2">
+        <a href="#"><img src="public/images/client-logo-02-primary.png" alt="It's Alive logo"></a>
+      </div>
+    </div>
+
   </div>
 </template>
 
