@@ -4,9 +4,7 @@
     <CoursesApp />
     <BooksApp />
     <StoriesApp />
-    <section id="blog">
-      Blog Updates
-    </section>
+    <BlogApp />
 </template>
 
 <script>
@@ -15,6 +13,7 @@
   import CoursesApp from './CoursesApp.vue';
   import BooksApp from './BooksApp.vue';
   import StoriesApp from './StoriesApp.vue';
+  import BlogApp from './BlogApp.vue';
   export default {
     name: 'MainContentApp',
     components:{
@@ -22,7 +21,8 @@
       AboutMeApp,
       CoursesApp,
       BooksApp,
-      StoriesApp 
+      StoriesApp,
+      BlogApp
     } 
   }
 </script>
