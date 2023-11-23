@@ -7,7 +7,7 @@
           <p class="myp">How to Be an Alpha Male: The 15 Habits of True Alphas</p>
         </div>
         <div class="col-md-6 ms-auto">
-          <strong><p>Want to learn how to be an alpha male? How to be more masculine? How to be the man you’ve always wanted to be?</p></strong>
+          <strong><p>Want to learn how to be <span style="color: #20ad96;">an alpha male</span>? How to be more masculine? How to be the man you’ve always wanted to be?</p></strong>
           <p>Your goal is to show the consistency of business, core values, and customer care. Punctuality, responsibility, individuality, accuracy, enthusiasm - you have to clearly explain how these qualities are applicable to your work. And the important thing is you do love what you do.</p>
         </div>
         <div class="row">
