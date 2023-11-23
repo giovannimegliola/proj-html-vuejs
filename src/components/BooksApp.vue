@@ -96,4 +96,19 @@
   color: #3f3a64;
   margin-bottom: 20px;
 }
+
+.card{
+  margin-bottom: 40px;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+}
+.card img{
+  transition: transform .8s ease;
+  cursor: pointer;
+}
+
+.card:hover img {
+  transform: scale(1.1);
+}
 </style>

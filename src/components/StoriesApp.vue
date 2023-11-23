@@ -13,7 +13,7 @@
         <button @click="nextSlide" class="mybtn"> &#62;</button>
       </div>
       <div class="col-md-6">
-        <img src="../assets/images/home-movation-testimonial-image-768x562.jpg" alt=""/>
+        <img src="../assets/images/home-movation-testimonial-image-768x562.jpg" alt="testimonial"/>
       </div>
     </div>
   </section>
