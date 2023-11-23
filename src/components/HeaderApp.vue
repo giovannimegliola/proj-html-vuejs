@@ -86,11 +86,9 @@ i{
 i:hover{
   color: #20ad96;
 }
-
 .myicon{
   font-size: 10px;
 }
-
 .dropdown-content {
   display: block;
   position: absolute;
@@ -99,13 +97,11 @@ i:hover{
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
-
 .dropdown-content ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-
 .dropdown-content li {
   padding: 10px;
   text-align: left;

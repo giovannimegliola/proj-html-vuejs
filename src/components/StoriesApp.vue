@@ -9,8 +9,10 @@
           <p class="py-2 myname">{{ currentStory.name }} </p> 
           <p class="myrole">{{ currentStory.role }}</p>
         </div>
-        <button @click="prevSlide" class="mybtn"> &#60; </button>
-        <button @click="nextSlide" class="mybtn"> &#62;</button>
+        <div>
+          <button @click="prevSlide" class="mybtn"> &#60; </button>
+          <button @click="nextSlide" class="mybtn"> &#62;</button>
+        </div>
       </div>
       <div class="col-md-6">
         <img src="../assets/images/home-movation-testimonial-image-768x562.jpg" alt="testimonial"/>
@@ -53,14 +55,12 @@ export default {
 h4 {
   color: #20ad96;
 }
-
 .carousel {
   position: relative;
   width: 100%;
   max-width: 400px; 
   margin: 0 auto; 
 }
-
 .carousel img {
   width: 90px;
   height: auto;
@@ -70,21 +70,17 @@ h4 {
 button {
   margin: 10px;
 }
-
 .mytext{
   font-size: 27px;
   font-weight: 200;
 }
-
 .myname{
   font-size: 20px;
 }
-
 .myrole{
   font-size: 15px;
   font-weight: 200;
 }
-
 .mybtn{
   border-radius: 50%;
   border: none;
