@@ -39,7 +39,7 @@
       <div class="col-md-2 ">
         <a href="#"><img src="public/images/client-logo-03-primary.png" alt="It's Alive logo"></a>
       </div>
-      <div class="col-md-2">
+      <div class="col-md-2 mylogo">
         <a href="#"><img src="public/images/client-logo-02-primary.png" alt="It's Alive logo"></a>
       </div>
     </div>
@@ -111,4 +111,9 @@
 .card:hover img {
   transform: scale(1.1);
 }
+
+.mylogo{
+  padding-left: 50px;
+}
+
 </style>

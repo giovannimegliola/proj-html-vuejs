@@ -1,6 +1,6 @@
 <template>
   <div class="text-center">
-    <p>BEGIN YOUR JOURNEY AT MAXCOACH</p> 
+    <p class="myp">BEGIN YOUR JOURNEY AT MAXCOACH</p> 
     <h2><span style="color: #3f3a64;">Latest</span> Online Courses</h2>
   </div>
   <CardsApp />
@@ -34,6 +34,10 @@ h2{
 }
 .mybtn:hover{
   background-color: #3f3a64;
+}
+
+.myp{
+  margin-top: 70px ;
 }
 
 </style>
