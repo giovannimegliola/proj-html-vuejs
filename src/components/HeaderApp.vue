@@ -2,17 +2,17 @@
   <header class="bg-white py-4">
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-3">
           <a href="#" >
             <img src="../assets/images/dark-logo.png" alt="MaxCoach logo" class="logo" />
           </a>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-7">
           <nav class="d-flex justify-content-between align-items-center">
             <ul class="nav">
               <li v-for="(link,index) in links" :key="index" class="nav-item">
                 <a v-bind:href="link.href" class="nav-link" :class="{ active: link.active }">
-                  {{ link.text }}
+                  {{ link.text }} <i class="fa-solid fa-angle-down myicon"></i>
                 </a>
               </li>
             </ul>
@@ -64,5 +64,9 @@ i{
 }
 i:hover{
   color: #20ad96;
+}
+
+.myicon{
+  font-size: 10px;
 }
 </style>
